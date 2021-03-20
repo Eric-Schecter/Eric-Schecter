@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @Eric-Schecter
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning webgl
-- 💞️ I’m looking to collaborate on visulizaion
-- 📫 How to reach me: eric199002@icloud.com
+One 3D demo one day, build 3d world in one day. 
