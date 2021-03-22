@@ -1,1 +1,1 @@
-One 3D demo one day, build 3d world in one day. 
+I use React, Threejs to build my dream world.
