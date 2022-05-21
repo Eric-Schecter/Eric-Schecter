@@ -1,4 +1,4 @@
-Eric-Schecter is learning shader.  
+Eric-Huang is learning shader.  
 He is a fan of generative art.  
 He wants to save the world from boredom with coding.  
 
