@@ -45,7 +45,11 @@
 
 ![Snake animation](https://github.com/Eric-Schecter/Eric-Schecter/blob/output/github-contribution-grid-snake-dark.svg)
 
-### I am building my personal renderer
+<div align="center">
+  <h2>
+    <span>I am building my personal renderer</span>
+  </h2>
+</div>
 
 <div>
 <a
