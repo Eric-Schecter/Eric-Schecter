@@ -31,7 +31,7 @@
   <img 
     height="165" 
     alt="github-stats" 
-    src="https://github-readme-stats.vercel.app/api?username=Eric-Schecter&theme=tokyonight&include_all_commits=true&count_private=true&show_icons=true" 
+    src="https://github-readme-stats.vercel.app/api?username=Eric-Schecter&theme=tokyonight&count_private=true&show_icons=true" 
   /> 
   <img 
     height="165" 
