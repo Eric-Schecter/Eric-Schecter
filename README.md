@@ -45,6 +45,41 @@
 
 ![Snake animation](https://github.com/Eric-Schecter/Eric-Schecter/blob/output/github-contribution-grid-snake-dark.svg)
 
+### I am building my personal renderer
+
+<div>
+<a
+target="_blank"
+href="https://github.com/Eric-Schecter/webgl-renderer"
+>
+<img
+height="80"
+alt="webgl repo"
+src="https://github-readme-stats.vercel.app/api/pin/?username=eric-schecter&repo=webgl-renderer"
+/>
+</a>
+<a
+target="_blank"
+href="https://github.com/Eric-Schecter/opengl-renderer"
+>
+<img
+height="80"
+alt="opengl repo"
+src="https://github-readme-stats.vercel.app/api/pin/?username=eric-schecter&repo=opengl-renderer"
+/>
+</a>
+<a
+target="_blank"
+href="https://github.com/Eric-Schecter/vulkan-renderer"
+>
+<img
+height="80"
+alt="vulkan repo"
+src="https://github-readme-stats.vercel.app/api/pin/?username=eric-schecter&repo=vulkan-renderer"
+/>
+</a>
+</div>
+
 <!-- github -->
 
 [gh-page-link]: https://eric-schecter.github.io/blog
