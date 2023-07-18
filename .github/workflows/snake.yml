@@ -1,34 +1,26 @@
-# ```yml
-name: Generate Snake - GitHub Contribute Data
+name: Generate Snake
 
 on:
-  # auto run from Actions Tab
-  workflow_dispatch:
   schedule:
-  - cron: "0 12 1 * *"
-  # i.e. At 12:00 on day-of-month 1
-  # e.g. at 2022-04-01 12:00:00
+    - cron: "0 12 * * *"
+  workflow_dispatch:
 
 jobs:
-  Snake:
-    name: Generate Snake 🐍
+  build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: generate github-contribution-grid-snake.svg
+      - name: Checkout
+        uses: actions/checkout@main
+
+      - name: Generate
         uses: Platane/snk@main
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             ./assets/github-contribution-grid-snake.gif
             ./assets/github-contribution-grid-snake.svg
-
-      - name: Commit
-        run: |
-          git config --local user.email "1090165925+github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add .
-          git commit -m "Generate snake"
-
+      
       - name: Push
         uses: ad-m/github-push-action@master
         with:
