@@ -7,7 +7,7 @@
     <span>I am a fan of computer graphics</span>
   </h2>
 
-  ### I am learning
+  ### I am focus on
 
   ![webgl-badge] &nbsp;
   ![opengl-badge] &nbsp;
@@ -42,6 +42,17 @@
 </p>
 
 ![](./profile-3d-contrib/profile-night-view.svg)
+
+<a 
+target="_blank" 
+title="open repo → 'generate snake'" 
+href="https://github.com/Platane/snk#readme">
+  <img 
+  height="185" 
+  alt="github-contribution-grid-snake" 
+  src="https://raw.githubusercontent.com/eric-schecter/eric-schecter/output/snake.svg" 
+  />
+</a>
 
 <!-- github -->
 
