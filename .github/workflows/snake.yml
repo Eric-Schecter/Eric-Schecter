@@ -18,29 +18,12 @@ jobs:
     name: Generate Snake 🐍
     runs-on: ubuntu-latest
     steps:
-      # repo under $GITHUB_WORKSHOP
-      - uses: actions/checkout@master
-      # generate snake gif
-      - uses: Platane/snk@master
-        id: snake-gif
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          # generate files into branch 'output'
-          gif_out_path: dist/snake.gif
-          svg_out_path: dist/snake.svg
-      # status: test/debug
-      - run: git status
-      # push the changes
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
-          force: true
-      # target branch 'output'
-      - uses: crazy-max/ghaction-github-pages@v2
-        with:
-          target_branch: output
-          build_dir: dist
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
