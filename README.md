@@ -7,7 +7,7 @@
     <span>I am a fan of computer graphics</span>
   </h2>
 
-  ### I am focus on
+  ### I am focused on
 
   ![webgl-badge] &nbsp;
   ![opengl-badge] &nbsp;
