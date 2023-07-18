@@ -22,6 +22,13 @@ jobs:
             ./assets/github-contribution-grid-snake.gif
             ./assets/github-contribution-grid-snake.svg
 
+      - name: Commit
+        run: |
+          git config --local user.email "1090165925+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add .
+          git commit -m "Generate snake"
+
       - name: Push
         uses: ad-m/github-push-action@master
         with:
