@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,cs,cpp,cmake,git,react,redux,sass,svg,threejs,ts,vscode,webpack" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,cs,cpp,cmake,git,react,redux,sass,svg,threejs,vscode,webpack&theme=dark" />
   </a>
 </p>
 
