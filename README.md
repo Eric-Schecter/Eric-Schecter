@@ -4,8 +4,14 @@
     <b>Hi, nice to meet you</b>
   </h1>
   <h2>
-    <span>I am learning computer graphics</span>
+    <span>I am a fan of computer graphics</span>
   </h2>
+
+  ### I am learning
+
+  ![webgl-badge] &nbsp;
+  ![opengl-badge] &nbsp;
+  ![vulkan-badge] &nbsp;
 
   [ ![gh-page][gh-page-badge] ][gh-page-link] &nbsp;
   [ ![gh-readme][gh-readme-badge] ][gh-readme-link]
@@ -37,8 +43,21 @@
 
 ![](./profile-3d-contrib/profile-night-view.svg)
 
+<!-- github -->
 
 [gh-page-link]: https://eric-schecter.github.io/blog
 [gh-readme-link]: https://github.com/eric-schecter/eric-schecter
 [gh-page-badge]: https://img.shields.io/badge/GH_PAGE-222222?labelColor=333333&logoColor=FFF&style=flat&logo=github
 [gh-readme-badge]: https://img.shields.io/badge/GH_README-222222?labelColor=333333&logoColor=FFF&style=flat&logo=github
+
+<!-- WebGL -->
+
+[webgl-badge]: https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logoColor=FFF&logo=webgl
+
+<!-- OpenGL -->
+
+[opengl-badge]: https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl
+
+<!-- Vulkan -->
+
+[vulkan-badge]: https://img.shields.io/badge/vulkan-%23AC162C.svg?&style=for-the-badge&logo=vulkan&logoColor=white
