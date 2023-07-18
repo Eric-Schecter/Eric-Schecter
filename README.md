@@ -43,7 +43,7 @@
 
 ![](./profile-3d-contrib/profile-night-view.svg)
 
-![Snake animation](https://github.com/eric-schecter/eric-schecter/blob/main/assets/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Eric-Schecter/Eric-Schecter/blob/output/github-contribution-grid-snake-dark.svg)
 
 <!-- github -->
 
