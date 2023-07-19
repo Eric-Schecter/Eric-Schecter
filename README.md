@@ -9,12 +9,13 @@
 
   ### I am focused on
 
+  [ ![gh-page][gh-page-badge] ][gh-page-link] &nbsp;
+  [ ![gh-readme][gh-readme-badge] ][gh-readme-link]
+
   ![webgl-badge] &nbsp;
   ![opengl-badge] &nbsp;
   ![vulkan-badge] &nbsp;
 
-  [ ![gh-page][gh-page-badge] ][gh-page-link] &nbsp;
-  [ ![gh-readme][gh-readme-badge] ][gh-readme-link]
 </div>
 
 <p align="center">
