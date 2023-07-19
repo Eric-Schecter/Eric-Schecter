@@ -47,7 +47,7 @@
 
 <div align="center">
   <h2>
-    <span>I am building my personal renderer</span>
+    <span>Some renderers I am trying to build</span>
   </h2>
 </div>
 
