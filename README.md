@@ -63,7 +63,7 @@ alt="webgl repo"
 src="https://github-readme-stats.vercel.app/api/pin/?username=eric-schecter&repo=webgl-renderer"
 />
 </a>
-<a
+<!-- <a
 target="_blank"
 href="https://github.com/Eric-Schecter/opengl-renderer"
 >
@@ -71,7 +71,7 @@ href="https://github.com/Eric-Schecter/opengl-renderer"
 height="80"
 alt="opengl repo"
 src="https://github-readme-stats.vercel.app/api/pin/?username=eric-schecter&repo=opengl-renderer"
-/>
+/> -->
 </a>
 <a
 target="_blank"
