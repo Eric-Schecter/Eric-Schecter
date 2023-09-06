@@ -32,12 +32,12 @@
   <img 
     height="165" 
     alt="github-stats" 
-    src="https://github-readme-stats.vercel.app/api?username=Eric-Schecter&theme=tokyonight&count_private=true&show_icons=true" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Eric-Schecter&theme=tokyonight&count_private=true&show_icons=true" 
   /> 
   <img 
     height="165" 
     alt="top-languages" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-Schecter&theme=tokyonight&layout=compact" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Eric-Schecter&theme=tokyonight&layout=compact" 
   />
   </a>
 </p>
