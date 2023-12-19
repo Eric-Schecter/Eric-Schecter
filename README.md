@@ -73,7 +73,7 @@ alt="opengl repo"
 src="https://github-readme-stats.vercel.app/api/pin/?username=eric-schecter&repo=opengl-renderer"
 /> -->
 </a>
-<a
+<!-- <a
 target="_blank"
 href="https://github.com/Eric-Schecter/vulkan-renderer"
 >
@@ -82,7 +82,7 @@ height="80"
 alt="vulkan repo"
 src="https://github-readme-stats.vercel.app/api/pin/?username=eric-schecter&repo=vulkan-renderer"
 />
-</a>
+</a> -->
 </div>
 
 <!-- github -->
@@ -102,4 +102,4 @@ src="https://github-readme-stats.vercel.app/api/pin/?username=eric-schecter&repo
 
 <!-- Vulkan -->
 
-<!-- [vulkan-badge]: https://img.shields.io/badge/vulkan-%23AC162C.svg?&style=for-the-badge&logo=vulkan&logoColor=white -->
+[vulkan-badge]: https://img.shields.io/badge/vulkan-%23AC162C.svg?&style=for-the-badge&logo=vulkan&logoColor=white
