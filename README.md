@@ -46,6 +46,7 @@
 
 ![Snake animation](https://github.com/Eric-Schecter/Eric-Schecter/blob/output/github-contribution-grid-snake.svg)
 
+<!--
 <div align="center">
   <h2>
     <span>Some renderers I am trying to build</span>
@@ -83,7 +84,7 @@ alt="vulkan repo"
 src="https://github-readme-stats.vercel.app/api/pin/?username=eric-schecter&repo=vulkan-renderer"
 />
 </a> -->
-</div>
+</div> -->
 
 <!-- github -->
 
