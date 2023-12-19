@@ -83,8 +83,9 @@ height="80"
 alt="vulkan repo"
 src="https://github-readme-stats.vercel.app/api/pin/?username=eric-schecter&repo=vulkan-renderer"
 />
-</a> -->
-</div> -->
+</a> 
+</div>
+-->
 
 <!-- github -->
 
