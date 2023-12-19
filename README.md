@@ -102,4 +102,4 @@ src="https://github-readme-stats.vercel.app/api/pin/?username=eric-schecter&repo
 
 <!-- Vulkan -->
 
-[vulkan-badge]: https://img.shields.io/badge/vulkan-%23AC162C.svg?&style=for-the-badge&logo=vulkan&logoColor=white
+<!-- [vulkan-badge]: https://img.shields.io/badge/vulkan-%23AC162C.svg?&style=for-the-badge&logo=vulkan&logoColor=white -->
