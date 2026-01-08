@@ -7,22 +7,7 @@
     <span>I am a fan of computer graphics</span>
   </h2>
 
-  ### I am focused on
-
-  [ ![gh-page][gh-page-badge] ][gh-page-link] &nbsp;
-  [ ![gh-readme][gh-readme-badge] ][gh-readme-link]
-
-  ![webgl-badge] &nbsp;
-  ![opengl-badge] &nbsp;
-  ![vulkan-badge] &nbsp;
-
 </div>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,cs,cpp,cmake,git,react,redux,sass,svg,threejs,vscode,webpack&theme=dark" />
-  </a>
-</p>
 
 <p align="center">
     <a 
