@@ -9,7 +9,7 @@
 
 </div>
 
-<p align="center">
+<!-- <p align="center">
     <a 
     target="_blank" 
     title="open repo → 'github-readme-stats'" 
@@ -25,7 +25,7 @@
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Eric-Schecter&theme=tokyonight&layout=compact" 
   />
   </a>
-</p>
+</p> -->
 
 ![](./profile-3d-contrib/profile-night-view.svg)
 
