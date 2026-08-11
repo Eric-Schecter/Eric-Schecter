@@ -3,9 +3,9 @@
     &nbsp;
     <b>Hi, nice to meet you</b>
   </h1>
-  <h2>
+  <!-- <h2>
     <span>I am a fan of computer graphics</span>
-  </h2>
+  </h2> -->
 
 </div>
 
