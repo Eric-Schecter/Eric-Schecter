@@ -1,17 +1,16 @@
 <div align="center">
   <h1>
-    &nbsp;
     <b>Hi, nice to meet you</b>
   </h1>
   
-  <div align="center">
+  <h1 align="center">
   <a href="https://eric-schecter.github.io">
     <img
       src="https://img.shields.io/badge/Personal_Website-222222?style=for-the-badge&logo=googlechrome&logoColor=white"
       alt="Personal Website"
     />
   </a>
-</div>
+</h1>
 
 </div>
 
